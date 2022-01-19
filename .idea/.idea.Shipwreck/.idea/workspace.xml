@@ -2,36 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26aef04c-5b22-482e-bab7-2dcc11a434f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Shipwreck/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shipwreck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shipwreck/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Joystick Pack/Examples/Example Scene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Joystick Pack/Examples/Example Scene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Character_Mat_Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Character_Mat_Black.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Character_Mat_Brown.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Character_Mat_Brown.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Character_Mat_White.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Character_Mat_White.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Fire_FX.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Fire_FX.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_01.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_01_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_01_Dark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_01_GrassSwap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_01_GrassSwap.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_02_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_02_Dark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_03.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_03_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_03_Dark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_04.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_04.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_04_Dark.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_04_Dark.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_Snow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_Snow.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_Water.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Materials/PolyVikings_Material_Water.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Models/ImportedModels/Snow/SM_Veh_FishingBoat_01_Snow.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/PolygonVikings/Models/ImportedModels/Snow/SM_Veh_FishingBoat_01_Snow.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Stickman_heads_sphere.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/Stickman_heads_sphere.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Blue.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Brown.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Brown.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Sand.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Sand.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Drowning.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Drowning.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/Titanic.usdz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/Titanic.usdz.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/scene.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/scene.bin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/scene.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/scene.gltf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/Translucent_Glass_Sky_Reflection_baseColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/Translucent_Glass_Sky_Reflection_baseColor.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/Wood_Bamboo_Medium_baseColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/Wood_Bamboo_Medium_baseColor.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/Wood_Cherry_Original_baseColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/Wood_Cherry_Original_baseColor.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/material_1_0_baseColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/material_1_0_baseColor.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/material_1_baseColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/material_1_baseColor.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/material_3_baseColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/Titanic/textures/material_3_baseColor.jpeg.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/_MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/_MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Hero/BoatController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Hero/BoatController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +68,7 @@
       <workItem from="1642596336167" duration="808000" />
       <workItem from="1642597358314" duration="33000" />
       <workItem from="1642597406409" duration="2150000" />
+      <workItem from="1642603295822" duration="1287000" />
     </task>
     <servers />
   </component>
