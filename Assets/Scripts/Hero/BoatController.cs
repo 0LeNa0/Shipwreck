@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.UI;
 
 namespace Assets.Scripts.Hero
@@ -7,9 +8,19 @@ namespace Assets.Scripts.Hero
     {
         [SerializeField] VariableJoystick joystick;
         [SerializeField] private Rigidbody rb;
-        [SerializeField] private float speed;
         [SerializeField] private GameObject touchForPlay;
-    
+        
+        private static float speed;
+
+        void Awake()
+        {
+            speed = 20;
+        }
+        public static void SpeedUp(float boost)
+        {
+            speed += boost;
+            Debug.Log(speed);
+        }
         public void FixedUpdate()
         {
             Vector3 direction = Vector3.forward * joystick.Vertical + Vector3.right * joystick.Horizontal;

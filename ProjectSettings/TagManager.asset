@@ -8,6 +8,7 @@ TagManager:
   - Boat
   - Island
   - Sea
+  - Helicopter
   layers:
   - Default
   - TransparentFX

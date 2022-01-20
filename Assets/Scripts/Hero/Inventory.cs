@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace Assets.Scripts
@@ -24,19 +26,26 @@ namespace Assets.Scripts
         }
 
 
-        public void UpDrownings(GameObject obj)
+        public bool UpDrownings(GameObject obj)
         {
             if (_drownings < _inventoryMax)
             {
                 this._drownings += 1;
-                Destroy(obj, 0.3f);
+                return true;
             }
+
+            return false;
         }
         
-        public void DownDrownings()
+        public bool DownDrownings()
         {
-            _coins += _drownings * _drowningCost;
-            this._drownings = 0;
+            if (_drownings != 0)
+            {
+                _coins += _drownings * _drowningCost;
+                this._drownings = 0;
+                return true;
+            }
+            return false;
         }
         
         public static Inventory GetI()
@@ -53,10 +62,19 @@ namespace Assets.Scripts
         {
             return _coins;
         }
+
+        public void Purchase(int cost)
+        {
+            _coins -= +cost;
+        }
         
         public int GetInventoryMax()
         {
             return _inventoryMax;
+        }
+        public void UpInventoryMax(int size)
+        {
+            _inventoryMax+=size;
         }
 
     }
