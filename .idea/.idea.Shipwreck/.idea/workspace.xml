@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="26aef04c-5b22-482e-bab7-2dcc11a434f5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shipwreck/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shipwreck/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ImportedAssets/GUI Kit Casual Game/ResourcesData/Fonts/LilitaOne-Regular.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ImportedAssets/GUI Kit Casual Game/ResourcesData/Fonts/LilitaOne-Regular.ttf.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Drowning.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Drowning.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Stickman_heads_sphere 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Stickman_heads_sphere 1.controller.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/_MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/_MainScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Hero/Boat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Hero/Boat.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Hero/BoatController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Hero/BoatController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Hero/Inventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Hero/Inventory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
       <workItem from="1642597358314" duration="33000" />
       <workItem from="1642597406409" duration="2150000" />
       <workItem from="1642603295822" duration="2085000" />
-      <workItem from="1642662930568" duration="7018000" />
+      <workItem from="1642662930568" duration="13100000" />
     </task>
     <servers />
   </component>
