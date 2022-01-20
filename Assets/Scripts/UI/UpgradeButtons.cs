@@ -14,7 +14,7 @@ namespace Assets.Scripts.UI
 
         public void UpgradeSpeed()
         {
-            if (Inventory.GetI().GetCoins() > speedUpCost)
+            if (Inventory.GetI().GetCoins() >= speedUpCost)
             {
                 Inventory.GetI().Purchase(speedUpCost);
                 BoatController.SpeedUp(boost);
@@ -24,7 +24,7 @@ namespace Assets.Scripts.UI
 
         public void UpgradeInventoryMax()
         {
-            if (Inventory.GetI().GetCoins() > inventoryMaxCost)
+            if (Inventory.GetI().GetCoins() >= inventoryMaxCost)
             {
                 Inventory.GetI().Purchase(inventoryMaxCost);
                 Inventory.GetI().UpInventoryMax(size);

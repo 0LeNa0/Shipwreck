@@ -10,9 +10,12 @@ namespace Assets.Scripts
         [SerializeField] private GameObject upgradeMenu;
         [SerializeField] private GameObject savedDrowning;
         [SerializeField] private GameObject helicopter;
+        [SerializeField] private Animator drowningsAnimator;
         [SerializeField] private List<GameObject> _savedDrowningsArray;
        
        private Vector3 _posOnBoat = new Vector3(0f, 1f, 1.5f);
+
+ 
         void OnTriggerEnter(Collider colliderObject){
             switch (colliderObject.tag)
             {
@@ -49,6 +52,8 @@ namespace Assets.Scripts
                 obj.transform.position = this.transform.position;
                 obj.transform.SetParent(this.transform);
                 obj.transform.localPosition = _posOnBoat;
+                drowningsAnimator = obj.GetComponent<Animator>();
+                drowningsAnimator.SetBool("OnBoat",true);
                 _posOnBoat+=new Vector3(0f,0f,-1f);
                 _savedDrowningsArray.Add(obj);
             }
